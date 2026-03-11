@@ -1,5 +1,4 @@
 # annovar-skill
-# annovar-skill
 
 A Codex skill for installing ANNOVAR, downloading databases, and annotating VCF files.
 
