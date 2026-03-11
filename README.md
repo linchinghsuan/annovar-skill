@@ -30,3 +30,8 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/linchinghsuan/annovar-skill.git
+
+Copy it into your Codex skills directory:
+
+```bash
+cp -r annovar-skill ~/.codex/skills/annovar
