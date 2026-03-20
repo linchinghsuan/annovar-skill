@@ -2,6 +2,14 @@
 
 A skill for installing ANNOVAR, downloading databases, and annotating VCF files.
 
+## Demo
+
+A short demonstration of annotating a VCF file using `annovar.skill`.
+
+▶️ Watch the demo video:  
+https://raw.githubusercontent.com/linchinghsuan/annovar-skill/main/annovar.mov
+
+
 ## Contents
 
 - `SKILL.md` — main skill definition
