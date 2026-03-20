@@ -1,6 +1,6 @@
 # annovar-skill
 
-A Codex skill for installing ANNOVAR, downloading databases, and annotating VCF files.
+A skill for installing ANNOVAR, downloading databases, and annotating VCF files.
 
 ## Contents
 
@@ -24,7 +24,7 @@ This skill helps with:
   - gnomAD
   - dbNSFP
 
-## Installation
+## Example Setup
 
 Clone this repository:
 
@@ -32,7 +32,7 @@ Clone this repository:
 git clone https://github.com/linchinghsuan/annovar-skill.git
 ```
 
-Copy it into your Codex skills directory:
+For example, if you are using a Codex local skill environment, you can place the skill in the skills directory:
 
 ```bash
 cp -r annovar-skill ~/.codex/skills/annovar
